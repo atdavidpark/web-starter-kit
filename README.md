@@ -41,6 +41,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 <h2 id="c">C#</h2>
 
 - [C# for Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
+- [C# video tutorials](https://thenewboston.com/videos.php?cat=15) - A comprehensive video series about C# suitable for beginners.
 
 ## Books
 
