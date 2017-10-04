@@ -73,7 +73,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Webpack 2 video tutorials, explaining Webpack API to complete beginners.
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
 - [React Training](https://reacttraining.com/react-router/web/guides/quick-start) - A step by step react training guide.
-
 ## PHP
 
 - [PHP Basics](https://www.codecourse.com/lessons/php-basics/1170) - A video course with the basics and practical examples by Codecourse.
@@ -102,6 +101,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Animation Effects](https://blog.trackduck.com/2015/06/10/15-impressive-pop-animation-effects-codepen) - 15 awesome pop-up animations, and the code to understand how they work.
 - [Better Web Type](https://betterwebtype.com) - An easy-to-follow web typography email course for web designers and web developers.
+- [Font Awesome](http://fontawesome.io/) - Easy way to get icons on you webpage.
 
 ## YouTube
 
