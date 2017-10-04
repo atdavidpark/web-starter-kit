@@ -26,6 +26,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me) - Kim Hart
 - [There are a lot of different educational online platforms to become a developer](https://hackernoon.com/there-are-a-lot-of-different-educational-online-platforms-to-become-a-developer-d4730ce0d0e1) - Hacker Noon
+- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/) - Sandijs Ruluks
 
 ## Atom
 
@@ -51,21 +52,27 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - A guide about getting started with Git.
 - [tldr](https://tldr.ostera.io) - Simplified and community-driven man pages.
 
+## HTML
+
+- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
+
 ## CSS
 
 - [CSS Reference](https://tympanus.net/codrops/css_reference/#section_css-property) - An extensive CSS reference with all the important properties.
 - [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet) - A Flexbox cheat-sheet by Luke Duncan.
+- [CSS Tower Defense](http://www.flexboxdefense.com/) - Classic tower defense game with a relevant twist.
 - [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
 - [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
+- [Simple transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) - Simple css animations.
 - [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) - Validate that your CSS style sheets do not contain errors, typos, incorrect uses of CSS and more.
 
 ## JavaScript
 
 - [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) - A video course by Egghead.
 - [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) - JavaScript beginner video series by Free Code Camp.
 - [Different Ways to Debug JavaScript Code](https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10) - Tons of tips for JS debugging.
-- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials
 - [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - A video course by Egghead.
 - [Rollup.js](https://rollupjs.org) - The next-generation JavaScript module bundler.
@@ -73,7 +80,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Webpack 2 video tutorials, explaining Webpack API to complete beginners.
 - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
 - [React Training](https://reacttraining.com/react-router/web/guides/quick-start) - A step by step react training guide.
-
 ## PHP
 
 - [PHP Basics](https://www.codecourse.com/lessons/php-basics/1170) - A video course with the basics and practical examples by Codecourse.
@@ -91,6 +97,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Endless Horse](http://endless.horse) - The website for an endless ASCII horse.
 - [Geek Typer](http://geektyper.com) - Hack like a programmer in movies and games!
+- [Text Faces](https://textfac.es/) - Click to copy to clipboard. Paste anywhere. Achieve glory.
 
 ## Twitter
 
@@ -102,6 +109,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Animation Effects](https://blog.trackduck.com/2015/06/10/15-impressive-pop-animation-effects-codepen) - 15 awesome pop-up animations, and the code to understand how they work.
 - [Better Web Type](https://betterwebtype.com) - An easy-to-follow web typography email course for web designers and web developers.
+- [Font Awesome](http://fontawesome.io/) - Easy way to get icons on you webpage.
+- [Fount](https://fount.artequalswork.com/) - A tool to help you identify any web font you see.
 - [Icons for everything](https://thenounproject.com/) - Over a million curated icons, created by a global community.
 
 ## YouTube
