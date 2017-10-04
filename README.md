@@ -111,7 +111,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Better Web Type](https://betterwebtype.com) - An easy-to-follow web typography email course for web designers and web developers.
 - [Font Awesome](http://fontawesome.io/) - Easy way to get icons on you webpage.
 - [Fount](https://fount.artequalswork.com/) - A tool to help you identify any web font you see.
-
+- [Flaticon](https://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 
 ## YouTube
 
