@@ -66,6 +66,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Simple transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) - Simple css animations.
 - [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) - Validate that your CSS style sheets do not contain errors, typos, incorrect uses of CSS and more.
+- [PurifyCSS](https://github.com/purifycss/purifycss) - A function that takes content (HTML/JS/PHP/etc) and CSS, and returns only the used CSS.
 
 ## JavaScript
 
