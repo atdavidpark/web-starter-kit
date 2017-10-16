@@ -101,6 +101,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Geek Typer](http://geektyper.com) - Hack like a programmer in movies and games!
 - [Text Faces](https://textfac.es/) - Click to copy to clipboard. Paste anywhere. Achieve glory.
 - [FallingFalling](http://www.fallingfalling.com/) - Watch as the endless wall keeps collapsing
+- [Programmer Humor on Reddit](https://www.reddit.com/r/ProgrammerHumor) - For reading and reposting "original" jokes.
 
 ## Twitter
 
