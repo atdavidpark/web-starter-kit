@@ -34,7 +34,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Discounts
 
-The links below are discounted software and services for students. Use your school email address to get access to these resources.
+<small>The links below are discounted software and services for students. Use your school email address to get access to these resources. Please ask a fellow student or a teacher if you can't remember your address.</small>
 
 - [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 - [JetBrains](https://www.jetbrains.com/student) - Award-winning professional developer tools.
