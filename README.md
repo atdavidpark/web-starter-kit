@@ -7,8 +7,8 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 ## Software
 
 - [Atom](https://atom.io) - A hackable and open-source text editor for the 21st century.
-- [Visual Studio Code](https://code.visualstudio.com) - Code editing, redefined, free, open-source and runs everywhere.
-- [MAMP](https://www.mamp.info/en) - One-click-solution for setting up your personal webserver.
+- [Visual Studio Code](https://code.visualstudio.com) - A code editing, redefined, free and open-source editor which runs everywhere.
+- [MAMP](https://www.mamp.info/en) - An one-click-solution for setting up your personal webserver.
 - [GitHub Desktop](https://desktop.github.com) - A Git collaboration tool for [macOS](https://www.apple.com/lae/macos) and [Windows](https://www.microsoft.com/en-us/windows).
 - [Hyper](https://hyper.is) - A beautiful and extensible [CLI](https://en.m.wikipedia.org/wiki/Command-line_interface) experience, built on open web standards.
 
