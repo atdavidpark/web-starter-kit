@@ -1,129 +1,50 @@
-# Awesome Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Web Starter Kit [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="https://i.giphy.com/XEF1gVbnOodkQ.gif" alt="Awesome Links" width="100%">
+<img src="https://user-images.githubusercontent.com/499192/36449416-0cbcda58-168b-11e8-879b-1c14d04e7cdd.jpg" alt="Web Starter Kit" width="100%">
 
-> A curated list of [awesome](https://github.com/sindresorhus/awesome#readme) educational links found by the web developer students.
+> Web Starter Kit is a survival guide for students in the [web developer program](http://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare) at [Yrgo](http://yrgo.se). This is a curated list of the best links from our lessons and workshops. It has everything you need to get started with [web development](https://media.giphy.com/media/eAmyMAJYxxufu/source.gif), free for students.
 
-Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you read the [guidelines](CONTRIBUTING.md) first!
+Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure you read the [guidelines](CONTRIBUTING.md) first!
 
-#### Contents
+## Software
 
-- [Articles](#articles)
-- [Atom](#atom)
-- [Books](#books)
-- [C#](#c)
-- [CLI](#cli)
-- [CSS](#css)
-- [JavaScript](#javascript)
-- [PHP](#php)
-- [Podcast](#podcasts)
-- [Random](#random)
-- [Twitter](#twitter)
-- [Web Design](#web-design)
-- [YouTube](#youtube)
+- [Atom](https://atom.io) - A hackable and open-source text editor for the 21st century.
+- [Visual Studio Code](https://code.visualstudio.com) - Code editing, redefined, free, open-source and runs everywhere.
+- [MAMP](https://www.mamp.info/en) - One-click-solution for setting up your personal webserver.
+- [Hyper](https://hyper.is) - A beautiful and extensible [CLI](https://en.m.wikipedia.org/wiki/Command-line_interface) experience, built on open web standards.
+- [GitHub Desktop](https://desktop.github.com) - A Git collaboration tool for [macOS](https://www.apple.com/lae/macos) and [Windows](https://www.microsoft.com/en-us/windows).
 
-## Articles
+## Front-end
 
-- [5 Lessons My Bootcamp Didn't Teach Me](https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me) - Kim Hart
-- [There are a lot of different educational online platforms to become a developer](https://hackernoon.com/there-are-a-lot-of-different-educational-online-platforms-to-become-a-developer-d4730ce0d0e1) - Hacker Noon
-- [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/) - Sandijs Ruluks
+- [Intro to HTML and CSS](https://eu.udacity.com/course/intro-to-html-and-css--ud304) - Learn how to convert digital design mockups into static web pages.
+- [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox!
+- [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
+- [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
 
-## Atom
+## Back-end
 
-- [editorconfig](https://github.com/sindresorhus/atom-editorconfig#readme) - Helps developers maintain consistent coding styles between different editors.
-- [linter-js-standard](https://github.com/ricardofbarros/linter-js-standard#readme) - Atom linter for JavaScript, using [JavaScript Standard Style](https://standardjs.com).
-- [linter-php](https://atom.io/packages/linter-php) - This package will lint PHP files and embedded PHP within HTML files.
-- [perfectionist](https://github.com/sindresorhus/atom-perfectionist#readme) - Atom package to beautify CSS and SCSS with [Perfectionist](https://github.com/ben-eb/perfectionist).
-- [recent-files-fuzzy-finder](https://github.com/viddo/recent-files-fuzzy-finder#readme) - Quickly find recently opened files through the default [Fuzzy Finder](https://github.com/atom/fuzzy-finder) in Atom.
-- [sort-lines](https://github.com/atom/sort-lines#readme) - An Atom package to sort lines of text.
-- [emmet](https://github.com/emmetio/emmet-atom) - Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow.
+- [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner PHP video course by Laracasts.
+- [Introduction to SQL](https://sqlbolt.com) - A series of interactive lessons and exercises designed to help you quickly learn SQL.
+- [C# Programming (Beginners)](https://www.youtube.com/playlist?list=PLrW43fNmjaQXhWOKalftye87ObZA-xNIJ) - A beginner-friendly video course of tutorials on programming in C#.
+- [Laravel From Scratch](https://laracasts.com/series/laravel-from-scratch-2017) - A video series with the essentials of Laravel development.
 
-<h2 id="c">C#</h2>
+## Tools
 
-- [C# for Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169) - Easy-to-follow course in C# using Visual Studio with tutor Bob Tabor.
-- [C# video tutorials](https://thenewboston.com/videos.php?cat=15) - A comprehensive video series about C# suitable for beginners.
+- [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about Git and GitHub.
 
-## Books
+## Discounts
 
-- [Essential Image Optimization](https://images.guide) - A free book on modern image optimization techniques by Addy Osmani.
+The links below are discounted software and services for students. Use your school email address to get access to these resources.
 
-## CLI
-
-- [Getting Git](https://gettinggit.com) - A comprehensive video series from git init to Git Master.
-- [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - A guide about getting started with Git.
-- [tldr](https://tldr.ostera.io) - Simplified and community-driven man pages.
-
-## HTML
-
-- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) - A beginner HTML & CSS online course by [Udacity](https://www.udacity.com).
-
-## CSS
-- [Bootstrap](http://getbootstrap.com/). - The worlds most popular css grid framework.
-- [CSS Reference](https://tympanus.net/codrops/css_reference/#section_css-property) - An extensive CSS reference with all the important properties.
-- [Flexbox Cheat-Sheet](http://www.lukeduncan.me/flexbox-cheat-sheet) - A Flexbox cheat-sheet by Luke Duncan.
-- [CSS Tower Defense](http://www.flexboxdefense.com/) - Classic tower defense game with a relevant twist.
-- [Flexbox Froggy](http://flexboxfroggy.com) -  An interactive game to learn [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
-- [mydevice.io](https://www.mydevice.io) - Good page for finding the right media queries for your responsive site.
-- [Specifity Calculator](https://specificity.keegan.st) - An interactive specifity calculator for selectors.
-- [Simple transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) - Simple css animations.
-- [What the Flexbox?](https://flexbox.io) - A simple, free 20 video course that will help you master Flexbox.
-- [CSS Validator](https://jigsaw.w3.org/css-validator/) - Validate that your CSS style sheets do not contain errors, typos, incorrect uses of CSS and more.
-- [PurifyCSS](https://github.com/purifycss/purifycss) - A function that takes content (HTML/JS/PHP/etc) and CSS, and returns only the used CSS.
-
-## JavaScript
-
-- [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) - A video course by Egghead.
-- [Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) - JavaScript beginner video series by Free Code Camp.
-- [Different Ways to Debug JavaScript Code](https://medium.com/@sandeep.scet/different-ways-to-debug-javascript-code-579e7f58cf10) - Tons of tips for JS debugging.
-- [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials
-- [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - A video course by Egghead.
-- [Rollup.js](https://rollupjs.org) - The next-generation JavaScript module bundler.
-- [The Best Way To Learn Modern JavaScript](https://es6.io) - A premium training course to strengthen your core JavaScript skills.
-- [Webpack 2](https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY) - Webpack 2 video tutorials, explaining Webpack API to complete beginners.
-- [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS#readme) - An open source Javascript book series from beginner to advanced.
-- [React Training](https://reacttraining.com/react-router/web/guides/quick-start) - A step by step react training guide.
-## PHP
-
-- [PHP Basics](https://www.codecourse.com/lessons/php-basics/1170) - A video course with the basics and practical examples by Codecourse.
-- [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner video course by [Laracasts](https://laracasts.com).
+- [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
+- [JetBrains](https://www.jetbrains.com/student) - Award-winning professional developer tools.
+- [InVision](https://www.invisionapp.com/education-signup) - A digital product design, workflow & collaboration tool.
 
 ## Podcasts
 
+- [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly [computer science](https://en.m.wikipedia.org/wiki/Computer_science) lessons by [CodeNewbie](https://www.codenewbie.org/basecs).
 - [Front End Happy Hour](http://frontendhappyhour.com) - A podcast featuring a panel of software engineers talking about front-end.
-- [Full Stack Radio](http://www.fullstackradio.com) - A podcast for developers interested in building great software hosted by [Adam Wathan](https://adamwathan.me).
-- [ShopTalk](http://shoptalkshow.com) - An internet radio show about the internet starring [Dave Rupert](http://daverupert.com) and [Chris Coyier](https://chriscoyier.net).
-- [Syntax](https://syntax.fm) - A Tasty Treats Podcast for Web Developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
-- [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
-
-## Random
-
-- [Endless Horse](http://endless.horse) - The website for an endless ASCII horse.
-- [Geek Typer](http://geektyper.com) - Hack like a programmer in movies and games!
-- [Text Faces](https://textfac.es/) - Click to copy to clipboard. Paste anywhere. Achieve glory.
-- [FallingFalling](http://www.fallingfalling.com/) - Watch as the endless wall keeps collapsing
-- [Programmer Humor on Reddit](https://www.reddit.com/r/ProgrammerHumor) - For reading and reposting "original" jokes.
-
-## Twitter
-
-- [Front-End Front](https://twitter.com/frontendfront) - Front-End Front tweets interesting front-end development links.
-- [Monica Dinosaurescu](https://twitter.com/notwaldorf) - Monica is a [Polymer](https://www.polymer-project.org) and [Google Chrome](https://www.google.com/chrome) developer.
-- [Wes Bos](https://twitter.com/wesbos) - Wes tweets about JavaScript tips and tricks.
-
-## Web Design
-
-- [Animation Effects](https://blog.trackduck.com/2015/06/10/15-impressive-pop-animation-effects-codepen) - 15 awesome pop-up animations, and the code to understand how they work.
-- [Better Web Type](https://betterwebtype.com) - An easy-to-follow web typography email course for web designers and web developers.
-- [Font Awesome](http://fontawesome.io/) - Easy way to get icons on you webpage.
-- [Fount](https://fount.artequalswork.com/) - A tool to help you identify any web font you see.
-- [Icons for everything](https://thenounproject.com/) - Over a million curated icons, created by a global community.
-- [Flaticon](https://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
-
-## YouTube
-
-- [Codecourse](https://www.youtube.com/codecourse) - A collection of super awesome PHP tutorials.
-- [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/videos) - DevMarketer is a channel devoted to tutorials and tips. Specific topics include SEO, PPC, Email Marketing, Website Development, Code, Affiliate Marketing, eCommerce, and more.
-- [DevTips](https://www.youtube.com/user/devtipsfordesigners) - Really cool front-end and web design tutorials.
-- [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) - Lots of in depth tutorials on mostly different frameworks.
+- [Syntax](https://syntax.fm) - Tasty treats podcast for web developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
 
 ## License
 
