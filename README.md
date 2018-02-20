@@ -14,6 +14,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Front-end
 
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css) - A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
 - [Intro to HTML and CSS](https://eu.udacity.com/course/intro-to-html-and-css--ud304) - Learn how to convert digital design mockups into static web pages.
 - [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox!
 - [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
@@ -43,6 +44,13 @@ _The links below are discounted software and services for students. Use your sch
 - [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly [computer science](https://en.m.wikipedia.org/wiki/Computer_science) lessons by [CodeNewbie](https://www.codenewbie.org/basecs).
 - [Front End Happy Hour](http://frontendhappyhour.com) - A podcast featuring a panel of software engineers talking about front-end.
 - [Syntax](https://syntax.fm) - Tasty treats podcast for web developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
+
+## Cheatsheets
+
+- [HTML Reference](https://htmlreference.io) - A free guide to HTML which features all elements and attributes.
+- [CSS Reference](https://cssreference.io) - A free visual guide to CSS which features the most popular properties.
+- [HTTP Status Codes](https://httpstatuses.com) - An easy to reference database of HTTP Status Codes with their definitions.
+- [Devhints](https://devhints.io) - A ridiculous collection of web development cheatsheets.
 
 ## License
 
