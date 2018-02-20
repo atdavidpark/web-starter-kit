@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/499192/36449416-0cbcda58-168b-11e8-879b-1c14d04e7cdd.jpg" alt="Web Starter Kit" width="100%">
 
-> Web Starter Kit is a survival guide for students in the [web developer program](http://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare) at [Yrgo](http://yrgo.se). This is a curated list of the best links from our lessons and workshops. It has everything you need to get started with [web development](https://media.giphy.com/media/eAmyMAJYxxufu/source.gif).
+> Web Starter Kit is a survival guide for students in the [web developer program](http://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare) at [Yrgo](http://yrgo.se). This is a curated list of the best links from our lessons and workshops. It has everything you need to get started with [web development](https://media.giphy.com/media/eAmyMAJYxxufu/source.gif) at Yrgo.
 
 _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure you read the [guidelines](CONTRIBUTING.md) first!_
 
