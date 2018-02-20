@@ -35,7 +35,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 _The links below are discounted software and services for students. Use your school email address to get access to these resources. Please ask a fellow student or a teacher if you can't remember your address._
 
 - [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
-- [JetBrains](https://www.jetbrains.com/student) - Award-winning professional developer tools.
+- [JetBrains](https://www.jetbrains.com/student) - Whichever technologies you use there's a JetBrains tool to match.
 - [InVision](https://www.invisionapp.com/education-signup) - A digital product design, workflow & collaboration tool.
 
 ## Podcasts
