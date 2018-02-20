@@ -28,7 +28,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Tools
 
-- [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about Git and GitHub.
+- [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about version control with Git and GitHub.
 
 ## Discounts
 
