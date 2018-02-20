@@ -14,7 +14,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Front-end
 
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css) - A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css) - A comprehensive guide dedicated to helping beginners learn HTML and CSS.
 - [Intro to HTML and CSS](https://eu.udacity.com/course/intro-to-html-and-css--ud304) - Learn how to convert digital design mockups into static web pages.
 - [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox!
 - [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
