@@ -45,6 +45,7 @@ _The links below are discounted software and services for students. Use your sch
 - [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly [computer science](https://en.m.wikipedia.org/wiki/Computer_science) lessons by [CodeNewbie](https://www.codenewbie.org/basecs).
 - [Front End Happy Hour](http://frontendhappyhour.com) - A podcast featuring a panel of software engineers talking about front-end.
 - [Syntax](https://syntax.fm) - Tasty treats podcast for web developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
+- [The Laracasts Snippet](https://laracasts.simplecast.fm) - Each episode, offers a single thought on some aspect of web development.
 
 ## Cheatsheets
 
