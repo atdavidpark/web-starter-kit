@@ -14,34 +14,18 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Front-end
 
-#### Beginner
-
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css) - A comprehensive guide dedicated to helping beginners learn HTML and CSS.
 - [Intro to HTML and CSS](https://eu.udacity.com/course/intro-to-html-and-css--ud304) - Learn how to convert digital design mockups into static web pages.
-
-#### Intermediate
-
 - [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox.
 - [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
 - [JavaScript Basics](https://eu.udacity.com/course/javascript-basics--ud804) - A video course to help you get you started with JavaScript.
-
-#### Advanced
-
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
 
 ## Back-end
 
-#### Beginner
-
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner PHP video course by Laracasts.
 - [Introduction to SQL](https://sqlbolt.com) - A series of interactive lessons and exercises designed to help you quickly learn SQL.
-
-#### Intermediate
-
 - [C# Programming (Beginners)](https://www.youtube.com/playlist?list=PLrW43fNmjaQXhWOKalftye87ObZA-xNIJ) - A beginner-friendly video course of tutorials on programming in C#.
-
-#### Advanced
-
 - [Laravel From Scratch](https://laracasts.com/series/laravel-from-scratch-2017) - A video series with the essentials of Laravel development.
 
 ## Tools
