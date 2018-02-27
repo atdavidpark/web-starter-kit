@@ -34,7 +34,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Discounts
 
-_The links below are discounted software and services for students. Use your school email address to get access to these resources. Please ask a fellow student or a teacher if you can't remember your address._
+_The links below are discounted software and services for students. Use your school email address to get access to these resources. Please ask a fellow student or a teacher if you can't remember your address. For InVision you'll need an code to sign up, please ask your teacher._
 
 - [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 - [JetBrains](https://www.jetbrains.com/student) - Whichever technologies you use there's a JetBrains tool to match.
@@ -46,6 +46,12 @@ _The links below are discounted software and services for students. Use your sch
 - [Front End Happy Hour](http://frontendhappyhour.com) - A podcast featuring a panel of software engineers talking about front-end.
 - [Syntax](https://syntax.fm) - Tasty treats podcast for web developers by [Wes Bos](https://twitter.com/wesbos) and [Scott Tolinski](https://twitter.com/stolinski).
 - [The Laracasts Snippet](https://laracasts.simplecast.fm) - Each episode, offers a single thought on some aspect of web development.
+
+## Documentation
+
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US) - The ultimate front-end resources for developers, by developers.
+- [PHP Manual](https://secure.php.net/manual/en) - The official documentation manual for the core PHP framework and language.
+- [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp) - The C# guide provides many resources about the C# language. 
 
 ## Cheatsheets
 
