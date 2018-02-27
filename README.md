@@ -51,6 +51,7 @@ _The links below are discounted software and services for students. Use your sch
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US) - The ultimate front-end resources for developers, by developers.
 - [PHP Manual](https://secure.php.net/manual/en) - The official documentation manual for the core PHP framework and language.
+- [Basic MySQL](http://mysqltutorial.org/basic-mysql-tutorial.aspx) - This basic MySQL tutorial explains some of the basic SQL statements.
 - [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp) - The C# guide provides many resources about the C# language. 
 
 ## Cheatsheets
