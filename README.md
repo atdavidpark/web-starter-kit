@@ -31,6 +31,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 ## Tools
 
 - [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about version control with Git and GitHub.
+- [The Command Line Tutorial](https://www.youtube.com/playlist?list=PLSmXPSsgkZLuJKJhvL1U384aHesbVDekO) - A video tutorial series aims to help you to master the power of the command line.
 
 ## Discounts
 
