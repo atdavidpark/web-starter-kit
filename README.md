@@ -16,10 +16,10 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css) - A comprehensive guide dedicated to helping beginners learn HTML and CSS.
 - [Intro to HTML and CSS](https://eu.udacity.com/course/intro-to-html-and-css--ud304) - Learn how to convert digital design mockups into static web pages.
-- [What The Flexbox?](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid) - A free 20 video course that will help you master CSS Flexbox.
-- [CSS Grid](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG) - Learn css grid with Wes Bos in 25 pretty good videos.
+- [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox.
+- [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
 - [JavaScript Basics](https://eu.udacity.com/course/javascript-basics--ud804) - A video course to help you get you started with JavaScript.
-- [JavaScript 30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
+- [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
 
 ## Back-end
 
