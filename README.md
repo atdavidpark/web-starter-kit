@@ -40,6 +40,7 @@ _The links below are discounted software and services for students. Use your sch
 - [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 - [JetBrains](https://www.jetbrains.com/student) - Whichever technologies you use there's a JetBrains tool to match.
 - [InVision](https://www.invisionapp.com/education-signup) - A digital product design, workflow & collaboration tool.
+- [Figma](https://www.figma.com/education) - A digital collaborative interface design tool.
 
 ## Podcasts
 
