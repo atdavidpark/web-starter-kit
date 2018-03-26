@@ -31,8 +31,9 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Tools
 
-- [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about version control with Git and GitHub.
-- [Command Line Basics](https://www.youtube.com/playlist?list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG) - A video tutorial to learn command line from the very basics.
+- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about version control with Git and GitHub.
+- [Command Line Basics](https://www.youtube.com/playlist?list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG) - A video tutorial series to learn command line from the very basics.
+- [Mastering Figma](https://www.youtube.com/playlist?list=PLLnpHn493BHFFqJTrBbx8trAsuI0U-16w) - A video course to get started with Figma.
 
 ## Discounts
 
