@@ -20,6 +20,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 - [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
 - [JavaScript Basics](https://eu.udacity.com/course/javascript-basics--ud804) - A video course to help you get you started with JavaScript.
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
+- [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHGW9YuiW8y9qHf-wHk_BKpe) - This series will teach you the basics of React from a beginners perspective.
 
 ## Back-end
 
@@ -31,7 +32,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 ## Tools
 
 - [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about version control with Git and GitHub.
-- [The Command Line Tutorial](https://www.youtube.com/playlist?list=PLSmXPSsgkZLuJKJhvL1U384aHesbVDekO) - A video tutorial series aims to help you to master the power of the command line.
+- [Command Line Basics](https://www.youtube.com/playlist?list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG) - A video tutorial to learn command line from the very basics.
 
 ## Discounts
 
