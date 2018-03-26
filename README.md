@@ -11,6 +11,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 - [MAMP](https://www.mamp.info/en) - An one-click-solution for setting up your personal webserver.
 - [GitHub Desktop](https://desktop.github.com) - A Git collaboration tool for [macOS](https://www.apple.com/lae/macos) and [Windows](https://www.microsoft.com/en-us/windows).
 - [Hyper](https://hyper.is) - A beautiful and extensible [CLI](https://en.m.wikipedia.org/wiki/Command-line_interface) experience, built on open web standards.
+- [Figma](https://www.figma.com) - A digital collaborative interface design tool.
 
 ## Front-end
 
@@ -42,7 +43,6 @@ _The links below are discounted software and services for students. Use your sch
 - [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 - [JetBrains](https://www.jetbrains.com/student) - Whichever technologies you use there's a JetBrains tool to match.
 - [InVision](https://www.invisionapp.com/education-signup) - A digital product design, workflow & collaboration tool.
-- [Figma](https://www.figma.com/education) - A digital collaborative interface design tool.
 
 ## Podcasts
 
