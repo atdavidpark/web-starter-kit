@@ -19,7 +19,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 - [Introduction to HTML](https://scrimba.com/g/ghtml) - Learn basic HTML with this interactive course with Scrimba.
 - [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox.
 - [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
-- [JavaScript Basics](https://eu.udacity.com/course/javascript-basics--ud804) - A video course to help you get you started with JavaScript.
+- [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) - Learn the most popular programming language on the web.
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
 - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHGW9YuiW8y9qHf-wHk_BKpe) - This series will teach you the basics of React from a beginners perspective.
 
