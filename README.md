@@ -69,10 +69,10 @@ _The links below are discounted software and services for students. Use your sch
 
 - [HTML Reference](https://htmlreference.io) - A free guide to HTML which features all elements and attributes.
 - [CSS Reference](https://cssreference.io) - A free visual guide to CSS which features the most popular properties.
+- [How HTTPS Works](https://howhttps.works) - A guide to how HTTPS works ...in a comic!
+- [How DNS Works](https://howdns.works) - A fun and colorful explanation of how DNS works.
 - [HTTP Status Codes](https://httpstatuses.com) - An easy to reference database of HTTP Status Codes with their definitions.
 - [Devhints](https://devhints.io) - A ridiculous collection of web development cheatsheets.
-- [githu](https://howhttps.works) - A guide to how HTTPS works ...in a comic!
-- [How DNS Works](https://howdns.works) - A fun and colorful explanation of how DNS works.
 
 ## License
 
