@@ -19,13 +19,17 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css) - A comprehensive guide dedicated to helping beginners learn HTML and CSS.
 - [Introduction to HTML](https://scrimba.com/g/ghtml) - Learn basic HTML with this interactive course with Scrimba.
-- [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox.
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - Learn how to design websites in less than an hour with Scrimba.
 - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) - Learn the most popular programming language on the web.
+
+#### Intermediate
+
+- [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox.
+- [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
+- [Introduction to ES6](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts.
 
 #### Advanced
 
-- [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
-- [Introduction to ES6](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts.
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
 - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHGW9YuiW8y9qHf-wHk_BKpe) - This series will teach you the basics of React from a beginners perspective.
 
