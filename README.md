@@ -77,6 +77,7 @@ _The links below are discounted software and services for students. Use your sch
 - [How DNS Works](https://howdns.works) - A fun and colorful explanation of how DNS works.
 - [HTTP Status Codes](https://httpstatuses.com) - An easy to reference database of HTTP Status Codes with their definitions.
 - [Devhints](https://devhints.io) - A ridiculous collection of web development cheatsheets.
+- [TLDR](https://tldr.ostera.io) - A community effort to simplify the beloved man pages with practical examples.
 
 ## License
 
