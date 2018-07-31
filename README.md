@@ -49,7 +49,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 ## Discounts
 
-<em><small>The links below are discounted software and services for students. Use your school email address to get access to these resources. Please ask a fellow student or a teacher if you can't remember your address. For InVision you'll need an code to sign up, please ask your teacher.</small></em>
+<em><sub>The links below are discounted software and services for students. Use your school email address to get access to these resources. Please ask a fellow student or a teacher if you can't remember your address. For InVision you'll need an code to sign up, please ask your teacher.</sub></em>
 
 - [Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 - [JetBrains](https://www.jetbrains.com/student) - Whichever technologies you use there's a JetBrains tool to match.
