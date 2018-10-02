@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "remark README.md -f"
+  },
+  "devDependencies": {
+    "remark-cli": "^5.0.0",
+    "remark-lint-no-dead-urls": "^0.4.1"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-lint-no-dead-urls"
+    ]
+  }
+}
