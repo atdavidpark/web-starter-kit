@@ -39,7 +39,7 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 - [The PHP Practitioner](https://laracasts.com/series/php-for-beginners) - A beginner PHP video course by Laracasts.
 - [Introduction to SQL](https://sqlbolt.com) - A series of interactive lessons and exercises designed to help you quickly learn SQL.
 - [C# Programming (Beginners)](https://www.youtube.com/playlist?list=PLrW43fNmjaQXhWOKalftye87ObZA-xNIJ) - A beginner-friendly video course of tutorials on programming in C#.
-- [Laravel From Scratch](https://laracasts.com/series/laravel-from-scratch-2017) - A video series with the essentials of Laravel development.
+- [Laravel From Scratch](https://laracasts.com/series/laravel-from-scratch-2018) - A video series with the essentials of Laravel development.
 
 ## Tools
 
