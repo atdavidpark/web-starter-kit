@@ -17,7 +17,8 @@ Hi there 👋 Are you new to the world of web development? Do you want to get st
 4. Are you still reading this guide? [Great job!](https://media.giphy.com/media/JVdF14CQQH7gs/giphy.gif) We can see that you're hungry for knowledge! Please apply for to the [web developer program](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/) at [Yrgo](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/)! You wont regret it!
 
 5. If you scroll further down you'll find our favorite online resources to learn more about web development.  
-Happy hacking! 🦄
+
+  Happy hacking! 🦄
 
 ## Software
 
