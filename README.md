@@ -4,6 +4,18 @@
 
 _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure you read the [guidelines](CONTRIBUTING.md) first!_
 
+## Getting Started
+
+Hi there 👋 Are you new to the world of web development? Do you want to get started building web pages for the [world wide web](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif)? Then this guide is for you!
+
+1. If you haven't already, download a text editor such as [Atom](https://atom.io) or [Visual Studio Code](https://code.visualstudio.com). This is where you'll write and program your web pages by writing code.
+
+2. To get started building your first web page using [HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/) you can visit our [front-end section](#front-end).
+
+3. Writing [front-end](https://en.m.wikipedia.org/wiki/Front_and_back_ends) applications is great but what if you want to build a website which requires a login system for example? Head over to our [back-end section](#back-end) to learn more about writing server applications using PHP and SQL.
+
+4. Are you still reading this guide? [Great job!](https://media.giphy.com/media/JVdF14CQQH7gs/giphy.gif) We can see that you're hungry for knowledge! Please apply for to the [web developer program](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/) at [Yrgo](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/)! You wont regret it!
+
 ## Software
 
 - [Atom](https://atom.io) - A hackable and open-source text editor for the 21st century.
