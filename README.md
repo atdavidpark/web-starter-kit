@@ -47,7 +47,7 @@ Hi there 👋 Are you new to the world of web development? Do you want to get st
 #### Advanced
 
 - [JavaScript 30](https://javascript30.com) - Build 30 things with vanilla JS in 30 days with 30 tutorials.
-- [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHGW9YuiW8y9qHf-wHk_BKpe) - This series will teach you the basics of React from a beginners perspective.
+- [Learn React](https://scrimba.com/g/glearnreact) - Learn all the basics to build dynamic, interactive web applications with React.
 - [Learn Vue.js](https://scrimba.com/g/glearnvue) - 9 interactive screencasts to take you from beginner to advanced.
 
 ## Back-end
