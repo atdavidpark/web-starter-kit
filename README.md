@@ -43,6 +43,7 @@ Hi there 👋 Are you new to the world of web development? Do you want to get st
 - [What The Flexbox?](https://flexbox.io) - A free 20 video course that will help you master CSS Flexbox.
 - [CSS Grid](https://cssgrid.io) - Learn css grid with Wes Bos in 25 pretty good videos.
 - [Introduction to ES6](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts.
+- [Learn Modern JavaScript](https://scrimba.com/g/ges6) - Features [freeCodeCamp's ES6 curriculum](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/) recorded as interactive screencasts.
 
 #### Advanced
 
