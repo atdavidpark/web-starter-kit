@@ -61,7 +61,7 @@ Hi there 👋 Are you new to the world of web development? Do you want to get st
 
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - A video course about version control with Git and GitHub.
 - [Command Line Basics](https://www.youtube.com/playlist?list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG) - A video tutorial series to learn command line from the very basics.
-- [Chrome DevTools 101](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE) - Learn how to use the most popular Chrome DevTools features with Kayce Basques.
+- [Chrome DevTools 101](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE) - Learn how to use popular Chrome DevTools features with Kayce Basques.
 - [Figma Tutorial](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23) - A video course to get started with designing in Figma.
 
 ## Discounts
