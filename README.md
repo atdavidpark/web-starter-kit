@@ -8,21 +8,18 @@ _Feel like [contributing](CONTRIBUTING.md) to the starter kit? Please make sure 
 
 Hi there 👋 Are you new to the world of web development? Do you want to get started building web pages for the [world wide web](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif)? Then this guide is for you!
 
-1. If you haven't already, download a text editor such as [Atom](https://atom.io) or [Visual Studio Code](https://code.visualstudio.com). This is where you'll build your web pages by writing code.
+1. If you haven't already, download a text editor such as [Visual Studio Code](https://code.visualstudio.com). This is where you'll build your web pages by writing code.
 
-2. To get started building your first web page using [HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/), please see our [front-end section](#front-end).
+2. To get started we suggest you take a look at [The Coding Bootcamp Primer](https://scrimba.com/g/gbootcampprimer) by Scrimba. This course teaches you the web development skills you need in order to enroll in a coding bootcamp. It's your first step towards a career in software development.
 
-3. Coding [front-end](https://en.m.wikipedia.org/wiki/Front_and_back_ends) applications is great but what if you want to build a login system? Head over to our [back-end section](#back-end) to learn more about server-side applications using PHP and SQL.
+3. If you haven't already, please apply to the [web developer program](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/) at Yrgo! You wont regret it!
 
-4. Are you still reading this guide? [You're awesome!](https://media.giphy.com/media/JVdF14CQQH7gs/giphy.gif) We can see that you're hungry for knowledge! Please apply to the [web developer program](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/) at Yrgo! You wont regret it!
-
-5. If you scroll further down you'll find our favorite online resources to get started with web development.
+4. If you scroll further down you'll find our favorite online resources to get started with web development.
 
     Happy hacking! 🦄
 
 ## Software
 
-- [Atom](https://atom.io) - A hackable and open-source text editor for the 21st century.
 - [Visual Studio Code](https://code.visualstudio.com) - A code editing, redefined, free and open-source editor which runs everywhere.
 - [GitHub Desktop](https://desktop.github.com) - A Git collaboration tool for [macOS](https://www.apple.com/lae/macos) and [Windows](https://www.microsoft.com/en-us/windows).
 - [Hyper](https://hyper.is) - A beautiful and extensible [CLI](https://en.m.wikipedia.org/wiki/Command-line_interface) experience, built on open web standards.
