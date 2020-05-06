@@ -12,7 +12,7 @@ Hi there 👋 Are you new to the world of web development? Do you want to get st
 
 2. To get started we suggest you take a look at [The Coding Bootcamp Primer](https://scrimba.com/g/gbootcampprimer) by Scrimba. This course teaches you the web development skills you need in order to enroll in a coding bootcamp. It's your first step towards a career in software development.
 
-3. If you haven't already, please apply to the [web developer program](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/) at Yrgo! You wont regret it!
+3. If you haven't already, please apply to the [web developer program](https://yrgo.se/webbutvecklare) at Yrgo! You wont regret it!
 
 4. If you scroll further down you'll find our favorite online resources to get started with web development.
 
